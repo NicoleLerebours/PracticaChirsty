@@ -1,0 +1,23 @@
+body{
+    background:cornflowerblue;
+}
+a{
+color:red;
+}
+h4{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: right;
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    background:silver;
+    font: size 20px;
+    color:blue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
